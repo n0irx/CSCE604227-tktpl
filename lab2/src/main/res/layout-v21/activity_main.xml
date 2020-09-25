@@ -26,7 +26,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:background="@android:color/white"
         android:orientation="vertical"
         android:padding="@dimen/activity_horizontal_margin"
@@ -112,7 +112,6 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginEnd="@dimen/activity_horizontal_margin"
-                android:layout_marginRight="@dimen/activity_horizontal_margin"
                 android:fontFamily="@font/lato_bold"
                 android:onClick="onSaveClick"
                 android:text="@string/save"
@@ -123,6 +122,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/lato_bold"
                 android:onClick="onRevertClick"
                 android:text="@string/revert"
                 android:textSize="@dimen/buttonTextSize" />

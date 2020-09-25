@@ -31,7 +31,7 @@ class EmailValidatorTest {
     }
 
     @Test fun emailValidator_CorrectEmailSubDomain_ReturnsTrue() {
-        assertTrue(EmailValidator.isValidEmail("name@email.co.uk"))
+        assertTrue(EmailValidator.isValidEmail("name@email.co.id"))
     }
 
     @Test fun emailValidator_InvalidEmailNoTld_ReturnsFalse() {
