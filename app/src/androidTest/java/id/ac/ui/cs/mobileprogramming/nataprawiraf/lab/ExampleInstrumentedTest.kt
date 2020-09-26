@@ -1,4 +1,4 @@
-package id.ac.ui.cs.mobileprogramming.nataprawiraf.helloworld
+package id.ac.ui.cs.mobileprogramming.nataprawiraf.lab
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

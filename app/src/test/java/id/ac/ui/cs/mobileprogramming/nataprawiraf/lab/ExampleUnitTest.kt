@@ -1,4 +1,4 @@
-package id.ac.ui.cs.mobileprogramming.nataprawiraf.helloworld
+package id.ac.ui.cs.mobileprogramming.nataprawiraf.lab
 
 import org.junit.Test
 
